@@ -1,3 +1,6 @@
+## 212222240035
+## M.HARINI
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
@@ -21,13 +24,13 @@ Execute the following commands
 Testing the commands for the desired output. 
 
 # COMMANDS:
-### Create the following files file1, file2 as follows:
+sgupta
+sumit ch### Create the following files file1, file2 as follows:
 cat > file1
 ```
 chanchal singhvi
 c.k. shukla
-s.n. dasgupta
-sumit chakrobarty
+s.n. daakrobarty
 ^d
 ```
 cat > file2
@@ -1153,3 +1156,4 @@ Enter the number 121 Number is palindrome Enter the number 69 Number is NOT pali
 
 # RESULT:
 The Commands are executed successfully.
+
